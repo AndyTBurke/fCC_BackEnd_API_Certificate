@@ -7,3 +7,12 @@ Created an API that can accept a date and return a json object with that date in
 
 ### Project 2 - Request Header Parser Microservice
 Created an API that shows requestor's IP address, language, and browser/software info. [Click here to see live project](https://boilerplate-project-headerparser.andyb123.repl.co) and [FCC's Boilerplate Code can be found here](https://github.com/freeCodeCamp/boilerplate-project-headerparser/).
+
+### Project 3 - URL Shortener Microservice
+Created an API that allows a user to post a URL. Using MongoDB, the URL is saved and a numeric ID is given as response. Append the numeric ID to the microservice's address, and user will be forwarded to the website associated to the ID.
+
+### Project 4 - WORK IN PROGRESS
+lorem ipsum
+
+### Project 5 - File Metadata Microservice
+Upload a file and a JSON response is sent with file name, file type, and file size. Uses multer library.
